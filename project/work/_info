@@ -1,0 +1,146 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/modelsim/examples
+T_opt1
+!s110 1656591185
+V8RBaSb>7:TiB`ZfTX@IMP0
+04 3 4 work cpu fast 0
+=1-bcee7b46dc2f-62bd9350-3b4-2294
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt1
+Z3 OL;O;2020.4;71
+R0
+T_opt2
+!s110 1656611205
+ViS[594kn:^RZW0=k;bDMe0
+04 6 4 work cpu_tb fast 0
+=1-bcee7b46dc2f-62bde185-aa-31d8
+R1
+R2
+n@_opt2
+R3
+R0
+vcarry_select_adder
+Z4 !s110 1656733490
+!i10b 1
+!s100 l?<IE_:I_BEQ?ao<[4>D>0
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>m5PeSLfFcb[l7KS0Mhaz1
+Z6 dD:/muhammad/cources/architecture/project
+Z7 w1656733482
+Z8 8D:/muhammad/cources/architecture/project/main.v
+Z9 FD:/muhammad/cources/architecture/project/main.v
+!i122 97
+L0 3 45
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1656733490.000000
+Z13 !s107 D:/muhammad/cources/architecture/project/main.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/muhammad/cources/architecture/project/main.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcpu
+!s110 1656732185
+!i10b 1
+!s100 `IzOCa[nMCFicKK>Nd;>^0
+R5
+I;;LlY<3iVDZem^[3GRl]R3
+R6
+w1656732169
+R8
+R9
+!i122 90
+L0 1 83
+R10
+R11
+r1
+!s85 0
+31
+!s108 1656732185.000000
+R13
+R14
+!i113 0
+R15
+R2
+vcpu_tb
+R4
+!i10b 1
+!s100 HQVEgob<hRG2XC1?kPES<3
+R5
+IaE@2a<aK?QgDYbcWYajE73
+R6
+R7
+R8
+R9
+!i122 97
+L0 136 14
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vfulladder
+R4
+!i10b 1
+!s100 hG>RQ<of3FzQI9M6o2Emn0
+R5
+I;>SRU`o[4f?6W7Z0lKWaj2
+R6
+R7
+R8
+R9
+!i122 97
+L0 152 6
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vmultiplexer2
+R4
+!i10b 1
+!s100 8B>IR]3D?f3>_<_G1h76B0
+R5
+IRV>92`2RF0?Uz9WN?YAaE2
+R6
+R7
+R8
+R9
+!i122 97
+L0 159 11
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
